@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sus-Hant1110
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python and javascript
-- 📫 Reach me through Linkeidn
+- 📫 Reach me through Linkeidn, Instagram...
 - 😄 Pronouns: Dedicated 
 - ⚡ Fun fact: Lazy Coder
 
