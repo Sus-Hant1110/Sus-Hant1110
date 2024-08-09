@@ -2,8 +2,7 @@
 - 👋 Hi, I’m @Sus-Hant1110<br>- 👀 I’m interested in datas<br>- 🌱 I’m currently learning python with data science<br>- 📫 Reach me through Linkeidn, Instagram...<br>- 😄 Pronouns: Dedicated <br>- ⚡ Fun fact: Lazy Coder
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sus Hant) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nsus_hant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sus Hant) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ suS_Hant) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@NSushaant) 
+## 🌐 Socials
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
