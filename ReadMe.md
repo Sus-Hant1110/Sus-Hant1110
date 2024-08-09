@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Sus-Hant1110<br>- 👀 I’m interested in web development<br>- 🌱 I’m currently learning python and javascript<br>- 📫 Reach me through Linkeidn, Instagram...<br>- 😄 Pronouns: Dedicated <br>- ⚡ Fun fact: Lazy Coder
+- 👋 Hi, I’m @Sus-Hant1110<br>- 👀 I’m interested in web development<br>- 🌱 I’m currently learning pythoneith data science<br>- 📫 Reach me through Linkeidn, Instagram...<br>- 😄 Pronouns: Dedicated <br>- ⚡ Fun fact: Lazy Coder
 
 
 ## 🌐 Socials:
