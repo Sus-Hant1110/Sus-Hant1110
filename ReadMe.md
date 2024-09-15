@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Sus-Hant1110<br>- 👀 I’m interested in datas<br>- 🌱 I’m currently learning python with data science<br>- 📫 Reach me through nsushaant72@gmail.com <br>- 😄 Pronouns: Dedicated <br>- ⚡ Fun fact: Lazy Coder
+- 👋 Hi, I’m @Sus-Hant1110<br>- 👀 I’m interested in Full stack Python<br>- 🌱 I’m currently learning python with django<br>- 📫 Reach me through nsushaant72@gmail.com <br>- 😄 Pronouns: Dedicated <br>- ⚡ Fun fact: Lazy Coder
 
 
 ## 🌐 Socials
